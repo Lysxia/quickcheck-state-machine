@@ -32,6 +32,7 @@ library
                      , quickcheck-instances
                      , quickcheck-state-machine
                      , random
+                     , resourcet
                      , servant
                      , servant-client
                      , servant-server
