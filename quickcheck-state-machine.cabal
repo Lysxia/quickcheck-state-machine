@@ -29,6 +29,7 @@ library
                      , Test.StateMachine.Types
                      , Test.StateMachine.Types.HFunctor
                      , Test.StateMachine.Types.References
+                     , Test.StateMachine.Types.Rel
   build-depends:       ansi-wl-pprint (>=0.6.7.3 && <0.7)
                      , async
                      , base (>=4.7 && <5)
